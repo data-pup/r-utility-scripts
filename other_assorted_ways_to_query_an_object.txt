@@ -1,0 +1,11 @@
+class : query an objects class
+str : reports structure of an object
+attributes : returns list of objects attributes
+attr : get/set attributes of an object
+names : gets the names of a list, vector, data.frame, etc.
+dimnames : gets the row and column names of a data.frame or matrix
+colnames : column names of a data.frame or matrix
+rownames : row names of a data.frame or matrix
+dput : makes an ASCII representation of an object
+unclass : removes class attribute of an object
+unlist : converts a list to a vector
